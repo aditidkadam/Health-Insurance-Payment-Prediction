@@ -124,7 +124,7 @@ streamlit run app.py
 - Predictions are estimates, not real insurance premiums  
 
 
-### ** Contact Information **
+### **Contact Information**
 - email_id : aditikadam2460@gmail.com
 - linkedin: https://www.linkedin.com/in/aditi-kadam24/
 
